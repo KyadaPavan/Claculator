@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.calaulator {
+    border: 1px solid rgb(67, 66, 66);
+    width: 280px;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+    /* background-color: black; */
+    background-color: transparent;
+    box-shadow: 1px 1px 5px rgba(201, 188, 188, 0.1);
+
+}
+
+.maincontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+
+}
